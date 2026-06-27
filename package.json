@@ -1,0 +1,13 @@
+{
+  "name": "debt-payoff-calculator",
+  "version": "1.0.0",
+  "description": "Snowball vs avalanche debt-payoff calculator — pure, deterministic, zero dependencies.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": { "test": "node test.js" },
+  "keywords": ["debt", "debt-payoff", "snowball", "avalanche", "finance", "loan", "calculator", "budget", "interest"],
+  "homepage": "https://comil27.github.io/",
+  "repository": { "type": "git", "url": "https://github.com/comil27/debt-payoff-calculator" },
+  "author": "Cody Miller",
+  "license": "MIT"
+}
